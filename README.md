@@ -8,5 +8,6 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Demo
 
-In the project directory, execute `npm start` to run the demo app.  
+Live demo can be viewed here: [https://t-a-y.github.io/cld-react-video/](https://t-a-y.github.io/cld-react-video/)
+To run it locally, execute `npm start` in the project directory.  
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.

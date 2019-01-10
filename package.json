@@ -1,7 +1,7 @@
 {
   "name": "cloudinary-react-video-player",
   "version": "0.1.0",
-  "private": true,
+  "homepage" : "https://t-a-y.github.io/cld-react-video",
   "dependencies": {
     "cloudinary-core": "^2.5.0",
     "cloudinary-video-player": "^1.1.1",
